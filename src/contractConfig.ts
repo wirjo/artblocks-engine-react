@@ -1,15 +1,15 @@
 export const mainnetContractConfig = [
   {
-    "CONTRACT_VERSION": "V2",
-    "CORE_CONTRACT_ADDRESS": "0xa319c382a702682129fcbf55d514e61a16f97f9c",
-    "MINT_CONTRACT_ADDRESS": "0x463b8ced7d22a55aa4a5d69ef6a54a08aa0feb93",
+    "CONTRACT_VERSION": "V3",
+    "CORE_CONTRACT_ADDRESS": "0xAf40b66072Fe00CAcF5A25Cd1b7F1688Cde20f2F",
+    "MINT_CONTRACT_ADDRESS": "0xc78d2705379b5CeFf37FEAbf8E3F14021B8412e8",
     "MEDIA_URL": "https://plottables-mainnet.s3.amazonaws.com",
     "TOKEN_URL": "https://token.artblocks.io",
     "GENERATOR_URL": "https://generator.artblocks.io",
     "EDIT_PROJECT_URL": "https://artblocks.io/engine/fullyonchain/projects"
   },
   {
-    "CONTRACT_VERSION": "V2",
+    "CONTRACT_VERSION": "V3",
     "CORE_CONTRACT_ADDRESS": "0x18de6097ce5b5b2724c9cae6ac519917f3f178c0",
     "MINT_CONTRACT_ADDRESS": "0xe6e728361b7c824cba64cc1e5323efb7a5bb65da",
     "MEDIA_URL": "https://plottables-flex-mainnet.s3.amazonaws.com",
